@@ -1,0 +1,1 @@
+# Tamagochi-editing-tool
